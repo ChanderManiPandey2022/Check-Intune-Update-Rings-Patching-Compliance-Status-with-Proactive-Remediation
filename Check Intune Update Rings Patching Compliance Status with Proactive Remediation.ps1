@@ -2,6 +2,7 @@
 <#
 .DESCRIPTION
 Script Title: Check Patching Compliance with Proactive Remediation
+Do not use this script is you are using LTSB / LTSC version. Windows Edition check logic is not added in this script.
 Demo
 <YouTube video link--> https://youtu.be/lJGiGXPTwZo
 
